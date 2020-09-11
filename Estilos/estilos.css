@@ -18,12 +18,10 @@ header {
     align-items: center;
     padding-left:  10px;
     padding-right: 10px;
-    background-color: blue;
+    background-color: darkgrey;
 }
 header h2 {
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 200;
-   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 header ul {
