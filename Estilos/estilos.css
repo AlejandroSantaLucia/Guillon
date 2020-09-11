@@ -12,6 +12,40 @@ body {
 
 
 }
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left:  10px;
+    padding-right: 10px;
+}
+
+header ul {
+    display: flex;
+    /* text-decoration: none; */
+    /* justify-content: space-between; */
+    padding: 5px;
+    /* margin: 15px; */
+    
+    border: red solid 1px;
+}
+
+header li {
+    display: flex;
+    margin: 5px 15px;
+
+    /* text-decoration: none; */
+    /* justify-content: space-between; */
+}
+header ul li a {
+    display: flex;
+    
+
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+
 h1  { border: 1px red solid;
 color: blue;}
 
