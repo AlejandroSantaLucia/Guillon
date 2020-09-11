@@ -18,6 +18,10 @@ header {
     align-items: center;
     padding-left:  10px;
     padding-right: 10px;
+    background-color: darkgrey;
+}
+header h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 header ul {
